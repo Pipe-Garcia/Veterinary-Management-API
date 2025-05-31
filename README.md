@@ -137,7 +137,7 @@ This project demonstrates:
 1. Clone the repo:
 
   ```bash
-    git clone https://github.com/your-username/veterinary-api.git
+    git clone https://github.com/Pipe-Garcia/veterinary-api.git
 ```
 
 2. Configure your MySQL database (application.properties)
